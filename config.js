@@ -1,7 +1,7 @@
 'use strict';
 
 module.exports = {
-  url: 'https://overcoded.com',
+  url: 'https://overcoded.dev',
   pathPrefix: '/',
   title: 'Overcoded',
   subtitle: '',
