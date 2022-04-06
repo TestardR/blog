@@ -4,7 +4,7 @@ template: 'page'
 socialImage: '/media/dancer1.jpg'
 ---
 
-Overall, I have genuine passion for **architecture designs** and **engineering management**.
+Overall, I have genuine passion for **system designs**, **application designs**, and **design patterns**.
 Having experience, as both a **Backend and Frontend Engineer** with a **DevOps** mindset, I have a comprehensive understanding of microservice architectures and teams organization to produce them. 
 
 Before becoming a **Software Engineer**, I have worked as an **Economics Teacher**. 
