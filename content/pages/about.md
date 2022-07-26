@@ -4,9 +4,9 @@ template: 'page'
 socialImage: '/media/dancer1.jpg'
 ---
 
-I have experience in **creating integration, distributed event driven backend solutions, serverless architecture, and web enterprise software applications**.
+I have experience in **creating integration, distributed event driven backend solutions, and serverless architecture**.
 
-The primary languages, technologies and platforms I have experience with are: **Golang, Python, TypeScript, AWS, Kafka, and Datadog** that were used in **eCommerce, logistics, collective intelligence, and finance sectors**.
+The primary languages, technologies and platforms I have experience with are: **Golang, Python, TypeScript, AWS, Kafka, and Datadog** that were used in **eCommerce, logistics, and finance sectors**.
 
 My languages of choice for configuration and infrastructure as a code is **Terraform**.
 
