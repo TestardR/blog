@@ -4,7 +4,7 @@ template: 'page'
 socialImage: '/media/dancer1.jpg'
 ---
 
-I have experience in **creating integration, distributed event driven backend solutions, and serverless architecture**.
+I have experience in: **creating integrations, distributed event driven backend solutions, and serverless architecture**.
 
 The primary languages, technologies and platforms I have experience with are: **Golang, Python, TypeScript, AWS, Kafka, and Datadog** that were used in **eCommerce, logistics, and finance sectors**.
 
